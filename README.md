@@ -1,7 +1,7 @@
 # ES114-Probability-Statistics-Data-Visualization-
 This Repository contains the solution codes to assignments that were given in the ES114 course taught during the second semester at IIT Gandhinagar 
 
-The Assignemnts pertain to the following Questions:
+The Assignments pertain to the following Questions:
 
 ## [Assignment 9]
 Consider the attached dataset
