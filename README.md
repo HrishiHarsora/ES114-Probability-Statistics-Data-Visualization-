@@ -4,17 +4,17 @@ This Repository contains the solution codes to assignments that were given in th
 The Assignments pertain to the following Questions:
 
 ## [Assignment 10]
-Questions:
+Questions: <br>
 1)A plot of number of competitions/Locations across the world where International level Tennis was played<br>
-2)A Dataframe showing the years(2000 - 2024) and the average weight of players who emerged as champions in different tournaments in that year. Plot Line Graph
-3)Same as 2 but for length
-4)Same as 2 but for losers
-5)Same as 3 but for losers
-6)Same as 2 but for worldrank
-7)Same as 4 but for worldrank
-8)Analyze the different birthplaces for winners . go yearwise. so for 2000, make a dictionary storing all winnners and where were they from. At the end, after analyzing for all years, we shall have 25 such dictionaries. Then just add up the count for each specific place. take only first 20 or 30
-9)Same as 8 but instead of birthplace, use turned_pro column form atpp
-10)Same as 8 but instead of birthplace, use birth_year column from atpp
+2)A Dataframe showing the years(2000 - 2024) and the average weight of players who emerged as champions in different tournaments in that year. Plot Line Graph<br>
+3)Same as 2 but for length<br>
+4)Same as 2 but for losers<br>
+5)Same as 3 but for losers<br>
+6)Same as 2 but for worldrank<br>
+7)Same as 4 but for worldrank<br>
+8)Analyze the different birthplaces for winners . go yearwise. so for 2000, make a dictionary storing all winnners and where were they from. At the end, after analyzing for all years, we shall have 25 such dictionaries. Then just add up the count for each specific place. take only first 20 or 30<br>
+9)Same as 8 but instead of birthplace, use turned_pro column form atpp<br>
+10)Same as 8 but instead of birthplace, use birth_year column from atpp<br>
 
 ## [Assignment 9]
 Consider the attached dataset
