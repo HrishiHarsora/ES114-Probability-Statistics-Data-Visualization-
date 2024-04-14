@@ -5,7 +5,7 @@ The Assignments pertain to the following Questions:
 
 ## [Assignment 10]
 Questions:
-1)A plot of number of competitions/Locations across the world where International level Tennis was played
+1)A plot of number of competitions/Locations across the world where International level Tennis was played<br>
 2)A Dataframe showing the years(2000 - 2024) and the average weight of players who emerged as champions in different tournaments in that year. Plot Line Graph
 3)Same as 2 but for length
 4)Same as 2 but for losers
